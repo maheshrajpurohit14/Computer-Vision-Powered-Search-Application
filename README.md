@@ -74,4 +74,4 @@ streamlit run app.py
 
 
 ## 🙌 Author
-Developed by Uddandi Koti Sai Sankar
+Developed by Mahesh Raj Purohit
